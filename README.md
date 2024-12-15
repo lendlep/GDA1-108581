@@ -2,9 +2,9 @@
 
 Submitted by 108581
 
-Introduction to Pandas DataFrames – Replicating an article in Markdown
+## Introduction to Pandas DataFrames – Replicating an article in Markdown
 
-# File details
+### File details
 
 - NOTEBOOK FILE : Jupyter notebook file containing text ("Introduction to Pandas DataFrames") and Python code written in markdown cells. Jupyter Notebook needed to run.
 
